@@ -1,0 +1,5 @@
+POKRETANJE APLIKACIJE: 
+    - ng serve
+
+! u isto vrijeme pokrenuti json server sa podacima ...služi kao backend
+    - npm run server
